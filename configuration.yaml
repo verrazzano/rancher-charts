@@ -3,4 +3,4 @@ helmRepo:
 
 validate:
   url: https://github.com/verrazzano/rancher-charts.git
-  branch: oracle/release/2.7.1
+  branch: bfs/mgianata-9251-phase1
