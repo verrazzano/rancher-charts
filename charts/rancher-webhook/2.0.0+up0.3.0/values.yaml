@@ -9,7 +9,7 @@ global:
   hostNetwork: false
 
 capi:
-  enabled: true
+  enabled: false
 
 mcm:
   enabled: true
