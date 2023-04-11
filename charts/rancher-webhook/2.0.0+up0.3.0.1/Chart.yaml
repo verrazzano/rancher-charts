@@ -15,4 +15,4 @@ dependencies:
   repository: ""
 description: ValidatingAdmissionWebhook for Rancher types
 name: rancher-webhook
-version: 2.0.0+up0.3.0-1
+version: 2.0.0+up0.3.0.1
