@@ -14,6 +14,6 @@ The asset was created using the following steps:
 
 ```
 cd charts/rancher-webhook
-tar -cvzf rancher-webhook-2.0.0+up0.3.0.1.tgz 2.0.0+up0.3.0.1
-mv rancher-webhook-2.0.0+up0.3.0.1.tgz ../../assets/rancher-webhook
+tar -cvzf rancher-webhook-2.0.0+up0.3.0.tgz 2.0.0+up0.3.0
+mv rancher-webhook-2.0.0+up0.3.0.tgz ../../assets/rancher-webhook
 ```
